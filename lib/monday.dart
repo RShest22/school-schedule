@@ -61,11 +61,13 @@ Column mondayLesson() {
                       ),
                       Chip(
                         label: Text('9:15'),
-                        labelStyle: TextStyle(fontSize: 15),
+                        labelStyle:
+                            TextStyle(fontSize: 15, color: Colors.white),
                         avatar: Icon(
                           Icons.access_alarm,
-                          color: Colors.blue,
+                          color: Colors.white,
                         ),
+                        backgroundColor: Colors.blueGrey,
                       ),
                     ],
                   ),
