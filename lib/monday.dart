@@ -82,7 +82,7 @@ Column mondayLesson() {
                     style: TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
-                        color: Colors.deepPurple),
+                        color: Colors.blueGrey),
                   ),
                 ),
               ],
